@@ -9,4 +9,4 @@ pool:
 
 
 steps:
-- task: echo 'Testing a simple pipeline'
+- bash: echo 'Testing a simple pipeline'
