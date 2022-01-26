@@ -5,8 +5,8 @@
 
 
 pool:
-  vmImage: 'ubuntu-latest'
+  vmImage: 'window-latest'
 
 
 steps:
-- bash: echo 'Testing a simple pipeline'
+- task: echo 'Testing a simple pipeline'
